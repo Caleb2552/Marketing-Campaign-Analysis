@@ -133,9 +133,13 @@ v. Campaign engagement measures such as exposure, opens, clicks, and conversions
 ### Caveats/Limitations
 
 i. Campaign costs may be duplicated across customer-level records, which could overstate campaign costs and affect profit calculations.
+
 ii. Campaign profitability should be interpreted cautiously until costs are validated at the Campaign ID level.
+
 iii. The analysis identifies relationships rather than causation; for example, higher discount usage does not prove that discounts cause lower spending.
+
 iv. Campaign performance may be affected by customer segments, targeting, and exposure levels, making direct comparisons potentially misleading.
+
 v. The analysis is limited to the available data and time period and does not account for external factors such as competition, seasonality, economic conditions, or pricing changes.
 
 ---
