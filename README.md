@@ -56,7 +56,7 @@ Several key insights emerge from this dataset:
 
 2. Which customer segments generate the most Revenue?
 
-![Segment Rev](./SegmentRev.png)
+![Segment Revenue](./Screenshot%202026-09-11%20131442.png)
 
    The analysis shows that High Value customers bring in the most revenue, contributing about $66K, while Premium customers generate around $53K. This suggests that these higher-value customers play an important role in the company's overall revenue. Keeping these customers satisfied and engaged should therefore be a priority, as losing them could have a noticeable impact on business performance. At the same time, there is an opportunity to understand what makes High Value customers spend more and use those insights to increase the value of Premium customers.
 
