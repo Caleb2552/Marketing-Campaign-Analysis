@@ -121,9 +121,13 @@ Based on the insights from the provided dataset, here are my top 3 recommendatio
 ### Assumptions:
 
 i. Each record represents a customer-campaign interaction, with Customer ID used to identify individual customers.
+
 ii. Purchase After Campaign > 0 is treated as evidence that a customer made a purchase after the campaign.
+
 iii. Historical Revenue is used to measure customer spending and behavior, while Net Revenue is used for campaign-related revenue.
+
 iv. Customer Status accurately reflects the customer's current status for retention and churn analysis.
+
 v. Campaign engagement measures such as exposure, opens, clicks, and conversions are assumed to be recorded consistently across campaigns.
 
 ### Caveats/Limitations
