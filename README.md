@@ -49,7 +49,7 @@ Financially, Insight Mark generated $235.4K in revenue while incurring a total c
 Several key insights emerge from this dataset:
 
 1. How many customers are active, inactive and churned?
-   Screenshot 2026-09-08 122110.png
+   <a href=https://github.com/Caleb2552/Marketing-Campaign-Analysis/commit/d46079fe0ebbeb96a29e3dcab0b9f72c4c46d8dc#diff-8a9305dcda254fda5b91f754d9d9022231e5115f427b65978fa8328932a7f778>
   The analysis shows that the customer base is generally in a good position, with about 47,000 customers remaining fully active. However, around 7,000 customers are currently inactive, which could be a warning sign if they continue to disengage. There are also about 4,000 customers who have already churned, meaning the business has lost a noticeable portion of its customer base. This highlights the need to understand why customers are becoming inactive or leaving and to introduce timely engagement strategies that can bring them back before they churn.
 
 3. Which customer segments generate the most Revenue?
