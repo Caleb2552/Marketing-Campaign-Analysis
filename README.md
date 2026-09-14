@@ -76,15 +76,20 @@ In contrast, Product Launch performed poorly, spending $25,890 but generating on
 ## Other Findings
 1. Customer Demographics
    Gender Distribution: Male(48.37%), Female(47.61%), Others(4.02%)
+
+ ![Gender](./Gender.png)
+   
   Age Groups By Customer Value: Customers aged 35–44 are the most valuable segment, generating $80,164 in revenue and accounting for 34.97% of total customer value. In contrast, the 18–24 age group contributes only $18,984 in revenue, representing 6.87% of customer value. This suggests that purchasing power and overall customer value increase significantly with age, making the 35–44 segment a key target for revenue growth and customer retention strategies.
+
+![AgeGroup](./AgeGroup.png)
 
 2. Top-Performing Campaigns by Purchases
    The analysis indicates that promotional campaigns are the strongest sales driver, generating approximately $58K in sales, followed by seasonal campaigns at $52K. This suggests that customers respond more strongly to promotional offers, making them a potentially effective strategy for driving sales and increasing overall campaign performance.
 
-3. Most Engaging Marketing Channels?
+4. Most Engaging Marketing Channels?
    The analysis shows that Email is the most engaging marketing channel, with 2,539 customer interactions, followed by Social Media with 1,653 and SMS with 1,195. This indicates that Email has the strongest reach and customer participation, making it the most effective channel for engaging customers in campaigns.
 
-4. Customer Spending and Purchase Behaviour
+5. Customer Spending and Purchase Behaviour
    The analysis shows that Premium Customers are the most frequent purchasers, with an average of 17.26 purchases and an average historical revenue of $2,686.58. They also have the highest Average Order Value (AOV) at $157.20, indicating stronger and more frequent spending behavior. High-Value Customers follow, averaging 11.24 purchases and generating approximately $1,209.06 in historical revenue, with an AOV of $107.90. Overall, Premium Customers demonstrate the strongest combination of purchase frequency and spending value, making them a particularly important segment for retention and loyalty strategies.
 
 ---
