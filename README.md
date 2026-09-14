@@ -54,13 +54,22 @@ Several key insights emerge from this dataset:
    
   The analysis shows that the customer base is generally in a good position, with about 47,000 customers remaining fully active. However, around 7,000 customers are currently inactive, which could be a warning sign if they continue to disengage. There are also about 4,000 customers who have already churned, meaning the business has lost a noticeable portion of its customer base. This highlights the need to understand why customers are becoming inactive or leaving and to introduce timely engagement strategies that can bring them back before they churn.
 
-3. Which customer segments generate the most Revenue?
+2. Which customer segments generate the most Revenue?
+
+ ![Segment Rev](./Segment-Rev.png)
+
    The analysis shows that High Value customers bring in the most revenue, contributing about $66K, while Premium customers generate around $53K. This suggests that these higher-value customers play an important role in the company's overall revenue. Keeping these customers satisfied and engaged should therefore be a priority, as losing them could have a noticeable impact on business performance. At the same time, there is an opportunity to understand what makes High Value customers spend more and use those insights to increase the value of Premium customers.
 
 3. Which gender has a higher campaign engagement and Purchasing Activity?
+
+ ![Gender engagement](./Gender-engagement.png)
+
    Analysis shows that male customers recorded slightly higher purchasing activity, generating about $136K, compared with $124K from female customers. Despite this difference in spending, both groups showed a similar level of campaign engagement, suggesting that the campaigns are reaching male and female customers relatively equally. The higher purchasing activi4ty among male customers may indicate an opportunity to better understand what drives their spending and apply similar strategies to encourage higher purchases among female customers.
 
 4. Which campaign performs best and which performs poorly?
+
+ ![CampPerformance](./Camp-Performance.png)
+
    The analysis shows that Upsell was the most efficient campaign, generating $32,577 in profit from a relatively low cost of $7,988. It also achieved a 4.66% conversion rate from 7,143 customer exposures, demonstrating strong cost efficiency and customer engagement. 
 In contrast, Product Launch performed poorly, spending $25,890 but generating only $54 in profit. Despite having a similar conversion rate of 4.36%, its higher cost and lower exposure of 5,776 customers resulted in very poor returns. Overall, the findings show that high campaign spending and conversion rates do not necessarily lead to profitability. Campaigns should therefore be evaluated based on their cost efficiency, conversion, and profit generated.
 
