@@ -91,6 +91,7 @@ In contrast, Product Launch performed poorly, spending $25,890 but generating on
    The analysis indicates that promotional campaigns are the strongest sales driver, generating approximately $58K in sales, followed by seasonal campaigns at $52K. This suggests that customers respond more strongly to promotional offers, making them a potentially effective strategy for driving sales and increasing overall campaign performance.
 
 3. Most Engaging Marketing Channels?
+   
   ![CTR](./CTR.png)
 
    The analysis shows that Email is the most engaging marketing channel, with 2,539 customer interactions, followed by Social Media with 1,653 and SMS with 1,195. This indicates that Email has the strongest reach and customer participation, making it the most effective channel for engaging customers in campaigns.
@@ -112,6 +113,14 @@ Based on the insights from the provided dataset, here are my top 3 recommendatio
 2. Develop a strategy for New and At-Risk customers: These groups currently show lower campaign response and purchase rates compared with Premium and High-Value customers, suggesting that broad campaigns may not be effective for them. Insight Mark should therefore use onboarding campaigns for new customers to build engagement and encourage repeat purchases, while re-engagement campaigns should be used to reconnect with At-Risk customers before they become inactive. Monitoring indicators such as days since last purchase and churn risk can help identify customers who need timely intervention. This approach allows marketing efforts to be more relevant to each customer's stage and behavior, rather than applying the same strategy across all segments.
    
 3. Reduce dependence on heavy discounts: The analysis shows that customers with higher historical discount usage tend to generate lower average revenue, suggesting that frequent or larger discounts do not necessarily lead to more valuable customers. Instead of broadly increasing discount levels, Insight Mark should test personalized offers based on customer behavior, purchase history, and value. This can help the business maintain customer engagement while protecting revenue and reducing unnecessary discount costs.
+
+---
+## Dashboard Images
+![Dashboard Overview](./Dashboard-Overview.png)
+![Demographics](./SDemographics.png)
+![Campaign Perf](./Campaign-Perf.png)
+![Channel](./Channel.png)
+![Customer](./Customer.png)
 
 ---
 
