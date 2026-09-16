@@ -92,13 +92,13 @@ In contrast, Product Launch performed poorly, spending $25,890 but generating on
 
 3. Most Engaging Marketing Channels?
 
- ![CTR](./CTR.png)
+![CTR](./CTR.png)
 
    The analysis shows that Email is the most engaging marketing channel, with 2,539 customer interactions, followed by Social Media with 1,653 and SMS with 1,195. This indicates that Email has the strongest reach and customer participation, making it the most effective channel for engaging customers in campaigns.
 
 4. Customer Spending and Purchase Behaviour
 
- ![Segment Freq](./Segment-Freq.png)
+![Segment Freq](./Segment-Freq.png)
 
    The analysis shows that Premium Customers are the most frequent purchasers, with an average of 17.26 purchases and an average historical revenue of $2,686.58. They also have the highest Average Order Value (AOV) at $157.20, indicating stronger and more frequent spending behavior. High-Value Customers follow, averaging 11.24 purchases and generating approximately $1,209.06 in historical revenue, with an AOV of $107.90. Overall, Premium Customers demonstrate the strongest combination of purchase frequency and spending value, making them a particularly important segment for retention and loyalty strategies.
 
