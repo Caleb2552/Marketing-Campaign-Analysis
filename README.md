@@ -117,8 +117,11 @@ Based on the insights from the provided dataset, here are my top 3 recommendatio
 ---
 ## Dashboard Images
 ![Dashboard Overview](./Dashboard-Overview.png)
+
 ![Demographics](./SDemographics.png)
+
 ![Campaign Perf](./Campaign-Perf.png)
+
 ![Channel](./Channel.png)
 ![Customer](./Customer.png)
 
