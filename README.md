@@ -91,8 +91,7 @@ In contrast, Product Launch performed poorly, spending $25,890 but generating on
    The analysis indicates that promotional campaigns are the strongest sales driver, generating approximately $58K in sales, followed by seasonal campaigns at $52K. This suggests that customers respond more strongly to promotional offers, making them a potentially effective strategy for driving sales and increasing overall campaign performance.
 
 3. Most Engaging Marketing Channels?
-
-![CTR](./CTR.png)
+  ![CTR](./CTR.png)
 
    The analysis shows that Email is the most engaging marketing channel, with 2,539 customer interactions, followed by Social Media with 1,653 and SMS with 1,195. This indicates that Email has the strongest reach and customer participation, making it the most effective channel for engaging customers in campaigns.
 
